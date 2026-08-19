@@ -44,6 +44,10 @@ The dataset contains sales transaction information including:
 * **Top 5 Customers by Sales** – Highest-value customers
 * **Interactive Slicers** – Filter and analyze dashboard data dynamically
 
+📸 Dashboard Preview
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dd077d0a-1693-4d02-86c4-d8a4f8a8d8ae" />
+
+
 ## 🔍 Key Insights
 
 The dashboard helps identify:
